@@ -9,9 +9,6 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -19,7 +16,7 @@ import org.testng.annotations.BeforeClass;
 import com.TestVagrant.Configs.Config;
 
 public class BasePage {
-	public static final Logger log = Logger.getLogger(BasePage.class.getName());
+	private static final Logger log = Logger.getLogger(BasePage.class.getName());
 
 	public static WebDriver driver;
 	public Properties OR;

@@ -1,4 +1,5 @@
 package com.TestVagrant.SampleTests;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -6,27 +7,26 @@ import org.testng.annotations.Test;
 import com.TestVagrant.BaseTest.BasePage;
 import com.TestVagrant.PageObjects.LandingPage;
 
+public class SignInTest extends BasePage {
 
-public class SignInTest extends BasePage{
+	@Test
+	public void shouldThrowAnErrorIfSignInDetailsAreMissing() {
+		/*
+		 * waitFor(2000);
+		 * 
+		 * driver.findElement(By.linkText("Your trips")).click();
+		 * driver.findElement(By.id("SignIn")).click();
+		 * 
+		 * driver.findElement(By.id("signInButton")).click();
+		 * 
+		 * String errors1 = driver.findElement(By.id("errors1")).getText();
+		 * Assert.assertTrue(errors1.contains("There were errors in your submission"));
+		 * driver.quit();
+		 */
 
-
-    @Test
-    public void shouldThrowAnErrorIfSignInDetailsAreMissing() {
-
-       /* waitFor(2000);
-
-        driver.findElement(By.linkText("Your trips")).click();
-        driver.findElement(By.id("SignIn")).click();
-
-        driver.findElement(By.id("signInButton")).click();
-
-        String errors1 = driver.findElement(By.id("errors1")).getText();
-        Assert.assertTrue(errors1.contains("There were errors in your submission"));
-        driver.quit(); */
-    	
-    	LandingPage lp = new LandingPage(driver);
-    	lp.checkForErrorInSignSubmissions();
-    }
+		LandingPage lp = new LandingPage(driver);
+		lp.checkForErrorInSignSubmissions();
+	}
 
 	/*
 	 * private void waitFor(int durationInMilliSeconds) { try {
