@@ -65,7 +65,7 @@ public class BasePage {
 						System.getProperty("user.dir") + "/src/main/resources/drivers/chromedriver.exe");
 				log.info("creating object of :" + browser.toString());
 				driver = new ChromeDriver();
-
+				driver.manage().window().maximize();
 			} else {
 				System.out.println("The browser choosed is incorrect");
 			}

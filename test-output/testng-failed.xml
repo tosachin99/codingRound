@@ -7,6 +7,7 @@
         <methods>
           <include name="shouldThrowAnErrorIfSignInDetailsAreMissing"/>
           <include name="init"/>
+          <include name="endTest"/>
         </methods>
       </class> <!-- com.TestVagrant.SampleTests.SignInTest -->
     </classes>
