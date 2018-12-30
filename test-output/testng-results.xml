@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22669" started-at="2018-12-29T20:58:01Z" finished-at="2018-12-29T20:58:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22669" started-at="2018-12-29T20:58:01Z" finished-at="2018-12-29T20:58:24Z">
+      <class name="com.TestVagrant.SampleTests.HotelBookingTest_New">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.TestVagrant.SampleTests.HotelBookingTest_New@5700d6b1]" name="init" is-config="true" duration-ms="8755" started-at="2018-12-29T20:58:01Z" finished-at="2018-12-29T20:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="shouldBeAbleToSearchForHotels()[pri:0, instance:com.TestVagrant.SampleTests.HotelBookingTest_New@5700d6b1]" name="shouldBeAbleToSearchForHotels" duration-ms="13185" started-at="2018-12-29T20:58:10Z" finished-at="2018-12-29T20:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldBeAbleToSearchForHotels -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.TestVagrant.SampleTests.HotelBookingTest_New@5700d6b1]" name="endTest" is-config="true" duration-ms="688" started-at="2018-12-29T20:58:23Z" finished-at="2018-12-29T20:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.TestVagrant.SampleTests.HotelBookingTest_New -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

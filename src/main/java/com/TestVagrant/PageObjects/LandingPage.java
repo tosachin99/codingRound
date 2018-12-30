@@ -24,13 +24,13 @@ public class LandingPage extends BasePage {
 	}
 
 	@FindBy(linkText = "Your trips")
-	WebElement lnk_yourTrips;
+	private WebElement lnk_yourTrips;
 
 	@FindBy(id = "SignIn")
-	WebElement btn_signInButton;
+	private WebElement btn_signInButton;
 
 	@FindBy(id = "signInButton")
-	WebElement SignInbtnInPopUp;
+	private WebElement SignInbtnInPopUp;
 
 	public void checkForErrorInSignSubmissions() {
 		lnk_yourTrips.click();
