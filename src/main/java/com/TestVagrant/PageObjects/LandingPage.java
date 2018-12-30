@@ -12,7 +12,7 @@ import com.TestVagrant.BaseTest.BasePage;
 import com.TestVagrant.Configs.Config;
 import com.TestVagrant.Helpers.WaitHelper;
 
-public class LandingPage extends BasePage {
+public class LandingPage{
 	private static final Logger log = Logger.getLogger(LandingPage.class.getName());
 	WebDriver driver;
 	WaitHelper wh;

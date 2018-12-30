@@ -8,3 +8,56 @@
 2018-12-30 02:25:25 INFO  BasePage:101 - Browser Closed
 2018-12-30 02:28:01 INFO  BasePage:63 - creating object of :chrome
 2018-12-30 02:28:24 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:32:51 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:33:22 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:40:24 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:40:47 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:41:36 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:41:57 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:42:24 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:44:36 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:45:02 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:45:27 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:46:04 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:46:25 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:47:11 INFO  BasePage:101 - Browser Closed
+2018-12-30 08:47:30 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 08:48:11 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:25:24 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:26:10 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:39:16 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:39:50 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:44:18 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:44:50 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:46:36 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:47:05 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:47:24 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:47:56 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:48:34 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:49:06 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:49:06 INFO  BasePage:44 - loading config.properties
+2018-12-30 09:49:06 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:49:19 INFO  LandingPage:39 - Switched to Iframe of Login PopUp
+2018-12-30 09:49:19 INFO  LandingPage:43 - Error Message Displayed is : 
+ There were errors in your submission
+Your username is a required field
+Your account password is a required field
+2018-12-30 09:49:20 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:49:20 INFO  BasePage:44 - loading config.properties
+2018-12-30 09:49:20 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:49:46 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:54:36 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:55:05 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:55:05 INFO  BasePage:44 - loading config.properties
+2018-12-30 09:55:05 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:55:23 INFO  LandingPage:39 - Switched to Iframe of Login PopUp
+2018-12-30 09:55:24 INFO  LandingPage:43 - Error Message Displayed is : 
+ There were errors in your submission
+Your username is a required field
+Your account password is a required field
+2018-12-30 09:55:24 INFO  BasePage:101 - Browser Closed
+2018-12-30 09:55:24 INFO  BasePage:44 - loading config.properties
+2018-12-30 09:55:24 INFO  BasePage:63 - creating object of :chrome
+2018-12-30 09:55:43 INFO  HotelBookingPage:37 - Locatlity enetred is: Indiranagar, Bangalore
+2018-12-30 09:55:43 INFO  HotelBookingPage:41 - Travellers enetred is: 1 room, 2 adults
+2018-12-30 09:55:44 INFO  BasePage:101 - Browser Closed

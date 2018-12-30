@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeClass;
 
 import com.TestVagrant.Configs.Config;
 
-public class BasePage {
+public abstract class BasePage {
 	private static final Logger log = Logger.getLogger(BasePage.class.getName());
 
 	public static WebDriver driver;

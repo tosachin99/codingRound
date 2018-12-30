@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestVagrant.SampleTests.HotelBookingTest_New">
+      <class name="com.TestVagrant.SampleTests.FlightBookingTest">
         <methods>
-          <include name="shouldBeAbleToSearchForHotels"/>
+          <include name="testThatResultsAppearForAOneWayJourney"/>
           <include name="init"/>
           <include name="endTest"/>
         </methods>
-      </class> <!-- com.TestVagrant.SampleTests.HotelBookingTest_New -->
+      </class> <!-- com.TestVagrant.SampleTests.FlightBookingTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
